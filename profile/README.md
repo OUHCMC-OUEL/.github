@@ -1,5 +1,6 @@
-# Chào mừng đến với OUEL 
-OUEL - Open University English Project 
+# OUEL: Open University English Learning
+Dự án được phát triển bởi sinh viên khoa Công nghệ thông tin thuộc Trường Đại học Mở Thành phố Hồ Chí Minh. 
+Dự kiến đưa vào production: tháng 8/2026
 
 ## Trường Đại học Mở Thành Phố Hồ Chí Minh
 Được thành lập vào năm 1990 và trở thành trường đại học công lập từ năm 2006, đến nay Trường Đại học Mở Thành phố Hồ Chí Minh là trường đại học đa ngành trực thuộc Bộ Giáo dục và Đào tạo, có nhiệm vụ đào tạo đại học và sau đại học, với các hình thức đào tạo chính quy và giáo dục thường xuyên, đào tạo các điểm vệ tinh,…nhằm đáp ứng nhu cầu học tập đa dạng của xã hội, góp phần tăng cường đội ngũ cán bộ khoa học-kỹ thuật cho đất nước.
